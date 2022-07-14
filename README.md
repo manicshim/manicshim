@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ManicShim&fontAlign=50&fontAlignY=40&color=timeAuto)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ManicAward&fontAlign=50&fontAlignY=40&color=timeAuto)
 
 > Ji Hoon Shim (a.k.a Manic)    
 > Developer, Photographer, Illustrator, Editor, Pilot
